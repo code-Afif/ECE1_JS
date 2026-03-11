@@ -30,16 +30,31 @@
     //   }
 
     // switch case 
-    var grade = 'A';
-    switch(grade){
-        case 'A':
-            document.write("passed")
-            break;
-        case 'B':
-            document.write("failed")
-            break;
-        default:
-            document.write("invalid option detected")
-            break;
+    // var grade = 'A';
+    // switch(grade){
+    //     case 'A':
+    //         document.write("passed")
+    //         break;
+    //     case 'B':
+    //         document.write("failed")
+    //         break;
+    //     default:
+    //         document.write("invalid option detected")
+    //         break;
+        
+    // }
+    //   function for using alert
+    // function myHfunction(){
+    //     alert("hello World")
+    // }
+
+    // function sayHello(name,args){
+    //     document.write(name+" is "+args+" years old")
+    // }
+
+    // arrow function 
+
+    car add 2 = (a,b) => {
+        console.log(a+b);
         
     }
